@@ -6,7 +6,7 @@
 >https://zhuanlan.zhihu.com/p/630422437
 >https://hexed.it/
 
-###lets start {dont make any efforts}
+##lets start {dont make any efforts}
 >copy sublit text .exe to:
 C:\Program Files\Sublime Text
 
