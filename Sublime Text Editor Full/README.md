@@ -1,17 +1,18 @@
-work on sublime_text_build_4169_x64_setup
+# Sublime Version💥
 
-Article:
-https://zhuanlan.zhihu.com/p/630422437
-https://hexed.it/
+>work on sublime_text_build_4169_x64_setup
 
+## Article {to know how it work}
+>https://zhuanlan.zhihu.com/p/630422437
+>https://hexed.it/
 
-lets start
-
-copy sublit text .exe to:
+###lets start {dont make any efforts}
+>copy sublit text .exe to:
 C:\Program Files\Sublime Text
 
-open then insert this License
+>open then insert this License
 
+>
 —– BEGIN LICENSE —–
 Zer0Daylab
 Unlimited User License
