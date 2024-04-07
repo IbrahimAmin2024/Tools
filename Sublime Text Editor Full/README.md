@@ -7,12 +7,11 @@
 
 >https://hexed.it/
 
-##lets start {dont make any efforts}
+## Lets start {dont make any efforts}
 >copy sublit text .exe to C:\Program Files\Sublime Text
 
 >open then insert this License
 
->
 —– BEGIN LICENSE —–
 Zer0Daylab
 Unlimited User License
