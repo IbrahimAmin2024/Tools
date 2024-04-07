@@ -4,11 +4,11 @@
 
 ## Article {to know how it work}
 >https://zhuanlan.zhihu.com/p/630422437
+
 >https://hexed.it/
 
 ##lets start {dont make any efforts}
->copy sublit text .exe to:
-C:\Program Files\Sublime Text
+>copy sublit text .exe to C:\Program Files\Sublime Text
 
 >open then insert this License
 
